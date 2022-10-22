@@ -1,8 +1,10 @@
+using LMS_Core_App.Models;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
-
+builder.Services.AddDbContext<LMSContext>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -16,6 +18,10 @@ if (!app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.UseRouting();
 

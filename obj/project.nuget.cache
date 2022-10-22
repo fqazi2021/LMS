@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fDftFLjJzSnVxuyhWHPM6O4N9yLm2dI/wDhL9Ah1GvMiMyc8AaROYyWl9KGz8r2yPDBhkBPBOBVDmqJHApjVmw==",
+  "dgSpecHash": "r8l1QoLyroxkPdAz7z48oGW4KfOllHJ/tdGcCAEhvxOEHYkn+Bw6zQ4mJssSlWXGwRxf0GJLLYlZ9WYjQYilqw==",
   "success": true,
-  "projectFilePath": "D:\\farrukh\\HRMS-try2\\LMS\\LMS Core App\\LMS Core App.csproj",
+  "projectFilePath": "D:\\farrukh\\LMSCore\\Web\\LMS Core App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\96894\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\96894\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\farrukh\\HRMS-try2\\LMS\\LMS Core App\\LMS Core App.csproj": {}
+    "D:\\farrukh\\LMSCore\\Web\\LMS Core App.csproj": {}
   },
   "projects": {
-    "D:\\farrukh\\HRMS-try2\\LMS\\LMS Core App\\LMS Core App.csproj": {
+    "D:\\farrukh\\LMSCore\\Web\\LMS Core App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\farrukh\\HRMS-try2\\LMS\\LMS Core App\\LMS Core App.csproj",
+        "projectUniqueName": "D:\\farrukh\\LMSCore\\Web\\LMS Core App.csproj",
         "projectName": "LMS Core App",
-        "projectPath": "D:\\farrukh\\HRMS-try2\\LMS\\LMS Core App\\LMS Core App.csproj",
+        "projectPath": "D:\\farrukh\\LMSCore\\Web\\LMS Core App.csproj",
         "packagesPath": "C:\\Users\\96894\\.nuget\\packages\\",
-        "outputPath": "D:\\farrukh\\HRMS-try2\\LMS\\LMS Core App\\obj\\",
+        "outputPath": "D:\\farrukh\\LMSCore\\Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
